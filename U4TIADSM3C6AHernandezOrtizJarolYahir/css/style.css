@@ -1,0 +1,81 @@
+.fondo{
+    background-color:darkturquoise;
+    
+}
+    
+.university{
+   display: flex;
+    flex-direction: row;
+    margin-left:0%;
+     
+}
+
+.cuerpo{
+
+    color:rgb(0, 0, 0);
+   font-size: 25px;
+    display:block;
+    flex-direction:column;
+    margin-right: 500px;
+
+    
+    
+   
+}
+
+.nav li{
+   padding-left: 40px;
+   float: right;
+   list-style: none;
+
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 25px;
+        
+}
+
+.nav a{
+    color:black;
+    
+}
+
+.form-group {
+    color:white;
+}
+
+.checkbox {
+    color: aliceblue;
+}
+
+.comentarios{
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+
+
+
+.submit {
+  color:azure;
+}
+
+hr{
+    border: none; height: 1px; color:#090000 ; background-color:#090000;
+    
+}
+
+
+
+.color {
+    color:lightcyan;
+}
+
+
+.button{
+    background-color: aliceblue;
+}
